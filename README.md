@@ -1,5 +1,7 @@
 # 短信收纳大师iOS App 短信训练数据
 
+> 说明：数据标记防范仅供iOS的CoreML框架使用，垃圾数据标记为`2`, 分类数据标记参考第二个代码block，比如健康事务(transactionalHealth)标记为`10004`
+> 
 数据标记方法
 ```
    /// Insufficient information to determine an action to take. In a query response, has the effect of allowing the message to be shown normally.
