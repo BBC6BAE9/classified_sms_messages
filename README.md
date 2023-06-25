@@ -1,4 +1,4 @@
-# 短信收纳大师短信数据 classified_sms_messages
+# 短信收纳大师iOS App 短信训练数据
 
 数据标记方法
 ```
